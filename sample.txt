@@ -1,0 +1,1478 @@
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+covid B-Covid_19
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+covid19 B-Covid_19
+
+tell O 
+me O
+some O
+covid B-Covid_19
+symptoms B-Symptoms
+
+tell O 
+me O
+some O
+covid19 B-Covid_19
+symptoms B-Symptoms
+
+
+tell O 
+me O
+covid B-Covid_19
+symptoms B-Symptoms
+
+tell O 
+me O
+covid19 B-Covid_19
+symptoms B-Symptoms
+
+covid B-Covid_19
+symptoms B-Symptoms
+
+covid19 B-Covid_19
+symptoms B-Symptoms
+
+tell O 
+me O
+some O
+corona B-Covid_19
+symptoms B-Symptoms
+
+tell O 
+me O
+corona B-Covid_19
+symptoms B-Symptoms
+
+corona B-Covid_19
+symptoms B-Symptoms
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+covid B-Covid_19
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+covid19 B-Covid_19
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+covid B-Covid_19
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+covid19 B-Covid_19
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+covid B-Covid_19
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+covid19 B-Covid_19
+
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+covid B-Covid_19
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+covid19 B-Covid_19
+
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+covid B-Covid_19
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+covid19 B-Covid_19
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+covid B-Covid_19
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+covid B-Covid_19
+
+symptoms B-Symptoms
+for O
+covid B-Covid_19
+
+symptoms B-Symptoms
+for O
+covid19 B-Covid_19
+
+symptoms B-Symptoms
+of O
+covid B-Covid_19
+
+symptoms B-Symptoms
+of O
+covid19 B-Covid_19
+
+symptoms B-Symptoms
+for O
+corona B-Covid_19
+
+symptoms B-Symptoms
+of O
+corona B-Covid_19
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+fever B-Fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+fever B-Fever
+
+what O
+is O
+the O
+symptoms B-Symptoms
+for O
+fever B-Fever
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+fever B-Fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+fever B-Fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+fever B-Fever
+
+symptoms B-Symptoms
+for O
+fever B-Fever
+
+symptoms B-Symptoms
+of O
+fever B-Fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+cold B-Cold
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+cold B-Cold
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+cold B-Cold
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+cold B-Cold
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+cold B-Cold
+
+symptoms B-Symptoms
+for O
+cold B-Cold
+
+symptoms B-Symptoms
+of O
+cold B-Cold
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+malariya B-Malariya_fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+malariya B-Malariya_fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+malariya B-Malariya_fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+malariya B-Malariya_fever
+
+symptoms B-Symptoms
+for O
+malariya B-Malariya_fever
+
+symptoms B-Symptoms
+of O
+malariya B-Malariya_fever
+
+malariya B-Malariya_fever
+symptoms B-Symptoms
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+dengu B-Dengu_fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+dengufever B-Dengu_fever
+fever I-Dengu_fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+dengu B-Dengu_fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+dengu B-Dengu_fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+dengu B-Dengu_fever
+
+symptoms B-Symptoms
+for O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+symptoms B-Symptoms
+for O
+dengu B-Dengu_fever
+
+
+symptoms B-Symptoms
+of O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+symptoms B-Symptoms
+of O
+dengu B-Dengu_fever
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+stomach B-Stomachpain
+pain I-Stomach
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+stomach B-Stomachpain
+pain I-Stomach
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+stomach B-Stomachpain
+pain I-Stomach
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+stomach B-Stomachpain
+pain I-Stomach
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+stomach B-Stomachpain
+pain I-Stomach
+
+symptoms B-Symptoms
+for O
+stomach B-Stomachpain
+pain I-Stomach
+
+symptoms B-Symptoms
+of O
+stomach B-Stomachpain
+pain I-Stomach
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+chickenpox B-Chickenpox
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+chickenpox B-Chickenpox
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+chickenpox B-Chickenpox
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+chickenpox B-Chickenpox
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+chickenpox B-Chickenpox
+
+symptoms B-Symptoms
+for O
+chickenpox B-Chickenpox
+
+symptoms B-Symptoms
+of O
+chickenpox B-Chickenpox
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+diabetes B-Diabetes
+  
+symptoms B-Symptoms
+of O
+diabetes B-Diabetes
+
+symptoms B-Symptoms
+for O
+diabetes B-Diabetes
+
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+diabetes B-Diabetes
+
+what O
+is O
+the O
+symptoms B-Symptoms
+for O
+diabetes B-Diabetes
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+diabetes B-Diabetes
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+typhoid B-Typhoid
+
+tell O
+me O
+symptoms B-Symptoms
+for O
+typhoid B-Typhoid
+  
+symptoms B-Symptoms
+of O
+typhoid B-Typhoid
+
+symptoms B-Symptoms
+for O
+typhoid B-Typhoid
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+typhoid B-Typhoid
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+typhoid B-Typhoid
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+typhoid B-Typhoid
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+pneumonia B-Pneumonia
+
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+pneumonia B-Pneumonia
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+pneumonia B-Pneumonia
+  
+symptoms B-Symptoms
+of O
+pneumonia B-Pneumonia
+
+symptoms B-Symptoms
+for O
+pneumonia B-Pneumonia
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+pneumonia B-Pneumonia
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+pneumonia B-Pneumonia
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+pneumonia B-Pneumonia
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+cancer B-Cancer
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+cancer B-Cancer
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+for O
+cancer B-Cancer
+  
+symptoms B-Symptoms
+of O
+cancer B-Cancer
+
+symptoms B-Symptoms
+for O
+cancer B-Cancer
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+cancer B-Cancer
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+cancer B-Cancer
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+cancer B-Cancer
+
+what O
+is O
+the O
+symptoms B-Symptoms
+for O
+cancer B-Cancer
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+tooth B-Toothpain
+pain I-Toothpain
+
+tell O
+me O
+symptoms B-Symptoms
+for O
+tooth B-Toothpain
+pain I-Toothpain
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+tooth B-Toothpain
+pain I-Toothpain
+  
+symptoms B-Symptoms
+of O
+tooth B-Toothpain
+pain I-Toothpain
+
+symptoms B-Symptoms
+for O
+tooth B-Toothpain
+pain I-Toothpain
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+tooth B-Toothpain
+pain I-Toothpain
+
+what O
+is O
+the O
+symptoms B-Symptoms
+for O
+tooth B-Toothpain
+pain I-Toothpain
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+tooth B-Toothpain
+pain I-Toothpain
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+tooth B-Toothpain
+pain I-Toothpain
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+heart B-Heartattack
+attack I-Heartattack
+
+tell O
+me O
+some O
+symptoms B-Symptoms
+of O
+heart B-Heartattack
+attack I-Heartattack
+
+
+tell O
+me O
+symptoms B-Symptoms
+for O
+heart B-Heartattack
+attack I-Heartattack
+  
+  
+symptoms B-Symptoms
+of O
+heart B-Heartattack
+attack I-Heartattack
+
+symptoms B-Symptoms
+for O
+heart B-Heartattack
+attack I-Heartattack
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+heart B-Heartattack
+attack I-Heartattack
+
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+heart B-Heartattack
+attack I-Heartattack
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+heart B-Heartattack
+attack I-Heartattack
+
+tell O
+me O
+symptoms B-Symptoms
+of O
+stroke B-Stroke
+
+tell O
+me O
+symptoms B-Symptoms
+for O
+stroke B-Stroke
+
+tell O
+me O
+symptoms B-Symptoms
+for O
+stroke B-Stroke
+  
+symptoms B-Symptoms
+of O
+stroke B-Stroke
+
+symptoms B-Symptoms
+for O
+stroke B-Stroke
+
+what O
+are O
+the O
+symptoms B-Symptoms
+for O
+stroke B-Stroke
+
+what O
+are O
+the O
+symptoms B-Symptoms
+of O
+stroke B-Stroke
+
+what O
+is O
+the O
+symptoms B-Symptoms
+of O
+stroke B-Stroke
+
+how O
+to O
+prevent B-Prevent
+fever B-Fever
+
+how O
+to O
+avoid B-Prevent
+fever B-Fever
+
+prevent B-Prevent
+fever B-Fever
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+fever B-Fever
+
+causes B-Causes
+of o
+fever B-Fever
+
+what O
+are O
+the O
+causes B-Causes
+of O
+fever B-Fever
+
+how O
+to O
+prevent B-Prevent
+cold B-Cold
+
+how O
+to O
+avoid B-Prevent
+cold B-Cold
+
+prevent B-Prevent
+cold B-Cold
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+cold B-Cold
+
+causes B-Causes
+of o
+cold B-Cold
+
+what O
+are O
+the O
+causes B-Causes
+of O
+cold B-Cold
+
+how O
+to O
+prevent B-Prevent
+stomach B-Stomachpain
+pain I-Stomachpain
+
+how O
+to O
+avoid B-Prevent
+stomach B-Stomachpain
+pain I-Stomachpain
+
+prevent B-Prevent
+stomach B-Stomachpain
+pain I-Stomachpain
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+stomach B-Stomachpain
+pain I-Stomachpain
+
+causes B-Causes
+of o
+stomach B-Stomachpain
+pain I-Stomachpain
+
+what O
+are O
+the O
+causes B-Causes
+of O
+stomach B-Stomachpain
+pain I-Stomachpain
+
+how O
+to O
+prevent B-Prevent
+head B-Headache
+ache I-Headache
+
+how O
+to O
+avoid B-Prevent
+head B-Headache
+ache I-Headache
+
+prevent B-Prevent
+head B-Headache
+ache I-Headache
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+head B-Headache
+ache I-Headache
+
+causes B-Causes
+of o
+head B-Headache
+ache I-Headache
+
+what O
+are O
+the O
+causes B-Causes
+of O
+head B-Headache
+ache I-Headache
+
+how O
+to O
+prevent B-Prevent
+tooth B-Toothpain
+ache I-Toothpain
+
+how O
+to O
+avoid B-Prevent
+tooth B-Toothpain
+ache I-Toothpain
+
+prevent B-Prevent
+tooth B-Toothpain
+ache I-Toothpain
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+tooth B-Toothpain
+ache I-Toothpain
+
+causes B-Causes
+of o
+tooth B-Toothpain
+ache I-Toothpain
+
+what O
+are O
+the O
+causes B-Causes
+of O
+tooth B-Toothpain
+ache I-Toothpain
+
+how O
+to O
+prevent B-Prevent
+covid B-Covid_19
+
+how O
+to O
+prevent B-Prevent
+covid19 B-Covid_19
+
+prevention B-Prevent
+of O
+covid B-Covid_19
+
+prevention B-Prevent
+of O
+corona B-Covid_19
+
+how O
+to O
+prevent B-Prevent
+corona B-Covid_19
+
+how O
+to O
+avoid B-Prevent
+covid B-Covid_19
+
+how O
+to O
+avoid B-Prevent
+covid19 B-Covid_19
+
+how O
+to O
+avoid B-Prevent
+corona B-Covid_19
+
+prevent B-Prevent
+covid B-Covid_19
+
+prevent B-Prevent
+covid19 B-Covid_19
+
+prevent B-Prevent
+corona B-Covid_19
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+covid B-Covid_19
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+covid19 B-Covid_19
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+corona B-Covid_19
+
+causes B-Causes
+of o
+covid B-Covid_19
+
+causes B-Causes
+of o
+covid19 B-Covid_19
+
+causes B-Causes
+of o
+corona B-Covid_19
+
+what O
+are O
+the O
+causes B-Causes
+of O
+covid B-Covid_19
+
+what O
+are O
+the O
+causes B-Causes
+of O
+covid19 B-Covid_19
+
+what O
+are O
+the O
+causes B-Causes
+of O
+corona B-Covid_19
+
+how O
+to O
+prevent B-Prevent
+typhoid B-Typhoid
+
+how O
+to O
+avoid B-Prevent
+typhoid B-Typhoid
+
+prevent B-Prevent
+typhoid B-Typhoid
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+typhoid B-Typhoid
+
+causes B-Causes
+of o
+typhoid B-Typhoid
+
+what O
+are O
+the O
+causes B-Causes
+of O
+typhoid B-Typhoid
+
+how O
+to O
+prevent B-Prevent
+dengu B-Dengu_fever
+
+how O
+to O
+prevent B-Prevent
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+how O
+to O
+avoid B-Prevent
+dengu B-Dengu_fever
+
+how O
+to O
+avoid B-Prevent
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+prevent B-Prevent
+dengu B-Dengu_fever
+
+prevent B-Prevent
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+prevention B-Prevent
+of O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+dengu B-Dengu_fever
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+dengu B-Dengu_fever
+fever I-Dengu_feve 
+
+causes B-Causes
+of o
+dengu B-Dengu_fever
+
+causes B-Causes
+of o
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+what O
+are O
+the O
+causes B-Causes
+of O
+dengu B-Dengu_fever
+
+what O
+are O
+the O
+causes B-Causes
+of O
+dengu B-Dengu_fever
+fever I-Dengu_fever
+
+how O
+to O
+prevent B-Prevent
+pneumonia B-Pneumonia
+
+how O
+to O
+avoid B-Prevent
+pneumonia B-Pneumonia
+
+prevent B-Prevent
+pneumonia B-Pneumonia
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+pneumonia B-Pneumonia
+
+causes B-Causes
+of o
+pneumonia B-Pneumonia
+
+what O
+are O
+the O
+causes B-Causes
+of O
+pneumonia B-Pneumonia
+
+how O
+to O
+prevent B-Prevent
+heart B-Heartattack
+attack I-Heartattack
+
+how O
+to O
+avoid B-Prevent
+heart B-Heartattack
+attack I-Heartattack
+
+prevent B-Prevent
+heart B-Heartattack
+attack I-Heartattack
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+heart B-Heartattack
+attack I-Heartattack
+
+causes B-Causes
+of o
+heart B-Heartattack
+attack I-Heartattack
+
+what O
+are O
+the O
+causes B-Causes
+of O
+heart B-Heartattack
+attack I-Heartattack
+
+how O
+to O
+prevent B-Prevent
+diabetes B-Diabetes
+
+how O
+to O
+avoid B-Prevent
+diabetes B-Diabetes
+
+prevent B-Prevent
+diabetes B-Diabetes
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+diabetes B-Diabetes
+
+causes B-Causes
+of o
+diabetes B-Diabetes
+
+what O
+are O
+the O
+causes B-Causes
+of O
+diabetes B-Diabetes
+
+how O
+to O
+prevent B-Prevent
+stroke B-Stroke
+
+how O
+to O
+avoid B-Prevent
+stroke B-Stroke
+
+prevent B-Prevent
+stroke B-Stroke
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+stroke B-Stroke
+
+causes B-Causes
+of o
+stroke B-Stroke
+
+what O
+are O
+the O
+causes B-Causes
+of O
+stroke B-Stroke
+
+how O
+to O
+prevent B-Prevent
+chickenpox B-Chickenpox
+
+how O
+to O
+avoid B-Prevent
+chickenpox B-Chickenpox
+
+prevent B-Prevent
+chickenpox B-Chickenpox
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+chickenpox B-Chickenpox
+
+causes B-Causes
+of o
+chickenpox B-Chickenpox
+
+what O
+are O
+the O
+causes B-Causes
+of O
+chickenpox B-Chickenpox
+
+how O
+to O
+prevent B-Prevent
+malariya B-Malariya_fever
+
+how O
+to O
+avoid B-Prevent
+malariya B-Malariya_fever
+
+prevent B-Prevent
+malariya B-Malariya_fever
+
+prevention B-Prevent
+of O
+malariya B-Malariya_fever
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+malariya B-Malariya_fever
+
+causes B-Causes
+of o
+malariya B-Malariya_fever
+
+what O
+are O
+the O
+causes B-Causes
+of O
+malariya B-Malariya_fever
+
+
+how O
+to O
+prevent B-Prevent
+malariya B-Malariya_fever
+
+how O
+to O
+avoid B-Prevent
+malariya B-Malariya_fever
+
+prevent B-Prevent
+malariya B-Malariya_fever
+
+prevention B-Prevent
+of O
+malariya B-Malariya_fever
+
+is O
+there O
+any O
+possible O
+way O
+to O
+prevent B-Prevent
+malariya B-Malariya_fever
+
+causes B-Causes
+of o
+malariya B-Malariya_fever
+
+what O
+are O
+the O
+causes B-Causes
+of O
+malariya B-Malariya_fever
+
+
